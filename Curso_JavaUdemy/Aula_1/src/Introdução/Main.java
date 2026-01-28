@@ -9,7 +9,7 @@ public class Main {
 		System.out.println("Hellooooou Word"); //Clássico "Hellou Word" cumprindo tabela ksks
 		
 		String nome = "Caio";
-		int x = 53;
+		int x = 33;
 		double y = 7.4565; //Declarando variavel também cumprindo tabela ksks
 		
 		System.out.println(x);
