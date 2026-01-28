@@ -22,7 +22,7 @@ public class Main {
 		System.out.println(x + " Carros, uau!!"); //Concatenando
 		System.out.printf("Resultado = %.2f Média%n", y); //Concatenando com PrintF
 		
-		// Obs: %f é a variavel tipo boolean
+		// Obs: %f é a variavel tipo double
 		     // %d é a variavel tipo int
 		     // %s é a variavel tipo String ou char[]
 			 // %n quebra linha
