@@ -2,7 +2,7 @@ package Introdução;
 
 import java.util.Locale;
 
-public class Primeiro_Programa {
+public class Main {
 
 	public static void main(String[] args) {
 		
