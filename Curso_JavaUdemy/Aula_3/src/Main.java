@@ -43,7 +43,22 @@ public class Main {
 		System.out.println(idade);
 		System.out.println(altura);
 		
-		sc.close(); //Ncessario para fechar o comando Scanner.
+		
+		
+		//Scanner com quebra de linha, não é delimitada por espaços.
+		
+		String s1, s2, s3; //Obs: se houver um scanner anterior ao Nexline() e ocorre alguma quebra de linha ela fica pendente
+						   // e se não fizer o comando correto o nexline consome aquela quebra de linha
+		
+		sc.nextLine(); // Nexline() extra para não ocorrer o consumo do proximo comanda de nextLine(), obs acima.
+		s1 = sc.nextLine();
+		s2 = sc.nextLine();	
+		s3 = sc.nextLine();
+		
+		
+		System.out.printf("Resultados %s, %s, %s", s1, s2, s3);
+		
+		sc.close(); //Necessario para fechar o comando Scanner.
 	}
 
 }
