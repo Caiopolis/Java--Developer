@@ -6,7 +6,7 @@ public class Main {
 		int x, y; // Declarando variaveis 
 		double z;
 		
-		x = 10; //Atribuindo dado
+		x = 10; //Atribuindo valor
 		
 		y = x * 10;
 		
