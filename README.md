@@ -1,7 +1,7 @@
 
 <h1 align = "center"> <strong>  Java Udemy ☕ </strong> </h1> 
  </br>
-<img width="222" height="222" alt="Image" align = "right" src="https://github.com/user-attachments/assets/8038fdd1-34b1-417a-bc3e-274d47e18edd" />
+<img width="250" height="250" alt="Image" align = "right" src="https://github.com/user-attachments/assets/8038fdd1-34b1-417a-bc3e-274d47e18edd" />
 <div>
    <p>
      Este repositório tem como objetivo consolidar e atualizar meus conhecimentos em Java, abrangendo desde os fundamentos 
