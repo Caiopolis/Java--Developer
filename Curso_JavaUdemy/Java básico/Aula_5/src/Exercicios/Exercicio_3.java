@@ -20,6 +20,8 @@ public class Exercicio_3 {
 		D = sc.nextInt();
 		diferenca = (A*B)-(C*D);
 		System.out.printf("Diferença do produto = (%d * %d) - (%d * %d) = %d", A,B,C,D,diferenca);
+		
+		sc.close();
 
 	}
 

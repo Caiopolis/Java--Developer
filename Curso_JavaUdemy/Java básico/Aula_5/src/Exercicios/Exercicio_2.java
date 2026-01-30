@@ -18,6 +18,8 @@ public class Exercicio_2 {
 		area = 3.14159 * (Math.pow(raio, 2));		
 		
 		System.out.printf("A área do seu círculo é: %.4f", area);
+		
+		sc.close();
 	}
 
 }

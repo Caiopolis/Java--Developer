@@ -31,6 +31,7 @@ public class Exercicio_5 {
 		
 		System.out.println("O valor total da compra foi de: " + total + "Reais");
 		
+		sc.close();
 	}
 
 }

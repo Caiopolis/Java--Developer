@@ -44,6 +44,8 @@ public class Exercicio_6 {
 			
 			System.out.printf("A área do Retângulo é (A lados laterais e B lados frontais ) = %.3f%n", A*B );
 		
+			
+			sc.close();
 	}
 
 }

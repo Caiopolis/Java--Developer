@@ -20,6 +20,8 @@ public class Exercicio_1 {
 		y = sc.nextDouble();
 		
 		System.out.printf("a soma de %.2f + %.2f = %.2f", x,y,x+y);
+		
+		sc.close();
 
 	}
 

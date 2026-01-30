@@ -33,7 +33,7 @@ public class Exercicio_4 {
 		System.out.println("Number = " + id);
 		System.out.println("Salary = " + salario);
 		
-		
+		sc.close();
 	}
 
 }
