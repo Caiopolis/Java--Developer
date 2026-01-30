@@ -12,6 +12,8 @@ public class Main {
 		int x = 33;
 		double y = 7.4565; //Declarando variavel também cumprindo tabela ksks
 		
+		//Obs: Se uma Variavel for declarada mas não inicializada (atribuida algum valor ou função etc) o programa não compila
+		
 		System.out.println(x);
 		System.out.printf("%.2f%n", y); //printf serve para formatar o output.
 		
@@ -26,7 +28,7 @@ public class Main {
 		     // %d é a variavel tipo int
 		     // %s é a variavel tipo String ou char[]
 			 // %n quebra linha
-		
+			
 		System.out.printf("Olá %s, é bom te ver! parabéns pelos %d anos, lembrando que sua média foi %.1f", nome,x,y);
 		
 	}
