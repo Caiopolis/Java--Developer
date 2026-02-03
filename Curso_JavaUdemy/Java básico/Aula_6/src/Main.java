@@ -87,6 +87,10 @@ public class Main {
 		
 		System.out.println(verificarNumero);
 		
+		//OBS:
+		//Debug verifica cada linha do código e mostra seu detalhamento/comportamento
+		//BreakPoint = ponto em que a IDE vai depurar o código 
+		
 	}
 
 }
