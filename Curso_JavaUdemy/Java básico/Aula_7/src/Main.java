@@ -14,7 +14,7 @@ public class Main {
 				Scanner sc = new Scanner(System.in);
 		
 				
-				System.out.println("Digite um numero");
+				System.out.println("Digite um numero: ");
 				x = sc.nextDouble();
 				
 				while(x != 0) {
