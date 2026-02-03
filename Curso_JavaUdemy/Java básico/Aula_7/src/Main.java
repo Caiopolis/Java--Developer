@@ -47,7 +47,33 @@ public class Main {
 				}
 				
 				System.out.println("Soma: " + soma);
+				
+				
+			//Do-While
+				
+				double F;
+				char resp;
+				do {
+				System.out.print("Digite a temperatura em celsius: ");
+				
+				double C = sc.nextDouble();
+				
+				F = ((9*C)/5) + 32;
+				System.out.println(F + " Fahrenheit");
+				System.out.println("Deseja continuar? s/n");
+				
+				resp = sc.next().charAt(0);
+				}while(resp != 'n');
+				
+				
+				
+				
+				
+				
+				
 				sc.close();
+		
+				
 				
 	}
 
