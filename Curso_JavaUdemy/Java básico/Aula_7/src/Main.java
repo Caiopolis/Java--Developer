@@ -27,6 +27,26 @@ public class Main {
 				
 				System.out.println("A soma dos valores digitados foi: " + y);
 				
+				
+				
+			//For 
+				
+				
+				int quantNum, soma = 0;
+				
+				System.out.println("Digite a quantidade de numero que deseja somar:");
+				quantNum = sc.nextInt();
+				
+				for(int i = 0; i != quantNum; i++) {
+					
+					int num;
+					System.out.println("Digite os numero que deseja somar:");
+					num = sc.nextInt();
+					soma += num;
+					
+				}
+				
+				System.out.println("Soma: " + soma);
 				sc.close();
 				
 	}
