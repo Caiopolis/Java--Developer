@@ -20,7 +20,7 @@ public class Main {
 				while(x != 0) {
 					
 					y += x;
-					System.out.println("Digite outro numero");
+					System.out.println("Digite outro numero: ");
 					x = sc.nextDouble();
 					
 				}
