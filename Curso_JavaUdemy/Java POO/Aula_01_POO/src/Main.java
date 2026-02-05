@@ -1,4 +1,3 @@
-package bbbb;
 
 public class Main {
 
