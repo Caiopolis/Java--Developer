@@ -12,16 +12,39 @@
    <p>- IDE utilizada: SpringTools (Eclipse). </p>
 </div>
   </br>
-<h2> Java Básico </h2> 
+  
+ <div>
+   <h2> Java Básico </h2> 
 
-Aqui foram apresentado os conceitos básicos da linguagem Java, abaixo a explicação de cada aula:
+   Aqui foram apresentados os conceitos básicos da linguagem Java, abaixo a explicação de cada aula:
 
-**Aula 1** - Inserindo e estruturando outputs (system.out.println), declarando variaveis, concatenado e utillizando formatação nos outputs (system.out.printf).
+   **Aula 1** - Inserindo e estruturando outputs (system.out.println), declarando variaveis, concatenado e utillizando formatação nos outputs (system.out.printf).
 
-**Aula 2** - Atribuindo valores as variaveis, utilizando expressões matemáticas e Casting (altera o tipo da variavel em exposição).
+   **Aula 2** - Atribuindo valores as variaveis, utilizando expressões matemáticas e Casting (altera o tipo da variavel em exposição).
 
-**Aula 3** - Inclusão  do Scanner (input) e suas versões (sc.nextInt, Double, Next, NextLine etc).
+   **Aula 3** - Inclusão  do Scanner (input) e suas versões (sc.nextInt, Double, Next, NextLine etc).
 
-**Aula 4** - Utilizando funções matemáticas nativas do Java (sqrt, pow e abs).
+   **Aula 4** - Utilizando funções matemáticas nativas do Java (sqrt, pow e abs).
 
-em processo...
+   **Aula 5** - Treinando aprendizado com exercícios básicos.
+
+   <img width="150" height="150" alt="Image" align = "right" src="https://github.com/user-attachments/assets/29e7c3c2-fe5b-45dc-83f8-289173c2dfef" />
+
+   **Aula 6** - Estruturas condicionais (if, else e else-if).
+
+   **Aula 7** - Estrutura de repetição (while, for e do-While).
+
+   **Aula 8** - Treinando aprendizado com exercícios de repetição.
+
+   **Aula 9** - Utilizando funções internas para manipulação dem Strings (Upper, Lower, Trim e etc).
+
+   **Aula 10** - Declarando funções em java.
+    </br> </br>
+    </br> 
+</div>
+
+<div>
+   <h2> Java POO </h2> 
+
+   Em processo...
+</div>
