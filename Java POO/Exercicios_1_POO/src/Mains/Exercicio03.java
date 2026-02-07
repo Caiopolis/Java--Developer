@@ -8,6 +8,9 @@ public class Exercicio03 {
 
 	public static void main(String[] args) {
 		
+		//Ler o nome e as 3 notas do trimestre de um aluno
+		//Calcular a soma das notas do trimestre e retornar se o aluno passou o reprovou (mostrando quantos pontos faltam)
+		
 		Scanner sc = new Scanner(System.in);
 		Trimestre aluno1;
 		aluno1 = new Trimestre();
