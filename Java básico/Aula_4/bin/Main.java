@@ -1,3 +1,4 @@
+package bin;
 
 public class Main {
 
