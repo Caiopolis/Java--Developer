@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		//Clássicas Condicionais ksksks
+		//Clássicass Condicionais ksksks
 		
 		Scanner sc = new Scanner(System.in);
 		double x;
