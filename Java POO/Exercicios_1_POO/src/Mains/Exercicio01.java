@@ -7,7 +7,7 @@ public class Exercicio01 {
 
 	public static void main(String[] args) {
 		
-		//Programa que irá ler a altura e a largura de um retângulo e retornar sua área, perimetro e diagonal.
+		//Programa que irá ler a altura e a largura de um retângulo e retornar sua área, perimetro e diagonal...
 	
 		Scanner sc = new Scanner(System.in);
 		Retangulo x;
