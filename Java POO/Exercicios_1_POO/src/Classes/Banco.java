@@ -6,11 +6,6 @@ public class Banco {
 	public double saldo;
 	public double valor;
 	
-	
-	public Banco() {
-		this.saldo = 0;
-	}
-	
 	public void depositar(double valor) {
 		
 		this.saldo += valor;
