@@ -28,7 +28,7 @@
 
    **Aula 5** - Treinando aprendizado com exercícios básicos.
 
-   <img width="150" height="150" alt="Image" align = "right" src="https://github.com/user-attachments/assets/29e7c3c2-fe5b-45dc-83f8-289173c2dfef" />
+   <img width="170" height="170" alt="Image" align = "right" src="https://github.com/user-attachments/assets/29e7c3c2-fe5b-45dc-83f8-289173c2dfef" />
 
    **Aula 6** - Estruturas condicionais (if, else e else-if).
 
