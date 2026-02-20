@@ -1,4 +1,4 @@
-
+ 
 <h1 align = "center"> <strong>  Java Udemy ☕ </strong> </h1> 
  </br>
 <img width="250" height="250" alt="Image" align = "right" src="https://github.com/user-attachments/assets/8038fdd1-34b1-417a-bc3e-274d47e18edd" />
@@ -51,6 +51,12 @@
    **Aula POO 2** - Utilizando métodos nativos de um oobjeto (toString etc...).
 
    **Aula POO 3** - Métodos estaticos (métodos que não necessitam ser instânciados, ou seja, não há necessidade de chamar o método por um objeto).
+
+   **Aula POO 4** - Declarando os Construtores (Método que se inicia no momento da instanciação).
+
+   **Aula POO 5** - Encapsulamento, Getters e Setters (get e set são utilizados para manipular variaveis que estão protegidas pelo encapsulamento).
+
+   
 </div>
 
 em processo.....
