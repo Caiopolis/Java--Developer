@@ -56,6 +56,8 @@
 
    **Aula POO 5** - Encapsulamento, Getters e Setters (get e set são utilizados para manipular variaveis que estão protegidas pelo encapsulamento).
 
+   **Aula POO 6** - Vetores referenciados (com objetos) e não referenciados (Sem classes).
+
    
 </div>
 
