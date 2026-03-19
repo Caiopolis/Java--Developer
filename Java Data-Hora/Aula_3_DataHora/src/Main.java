@@ -47,7 +47,7 @@ public class Main {
 		System.out.println("Duração entre d01 e a semana passada do mesmo é = " + t2.toDays());
 		System.out.println("Duração entre d01 e a semana passada do mesmo é = " + t1.toDays());
 		
-		//Obs: Na conversão do LocalDate é possivel utilizar o método atStartOfDay() que considera o valor 00
+		//Obs: Na conversão do LocalDate é possivel utilizar o método atStartOfDay() que considera o valor 00:00 (meia-noite)
 	}
 
 }
