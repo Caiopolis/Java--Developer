@@ -34,7 +34,7 @@ public class Main {
 	
 		Trabalhador trabalhador = new Trabalhador(nomeTrabalhador, LevelTrabalhador.valueOf(level), salarioBase,departamento ); //Para utilizar o Enum usar ValueOf na classe enum para ler o String.
 
-		System.out.println("Qauntos contratos esse trabalhador terá: ");
+		System.out.println("Quantos contratos esse trabalhador terá: ");
 		int numContratos = sc.nextInt();
 		
 		for(int i = 0; i < numContratos; i++) {
