@@ -51,10 +51,13 @@
    **Aula POO 2** - Utilizando métodos nativos de um oobjeto (toString etc...).
 
    **Aula POO 3** - Métodos estaticos (métodos que não necessitam ser instânciados, ou seja, não há necessidade de chamar o método por um objeto).
-
+   
    **Aula POO 4** - Declarando os Construtores (Método que se inicia no momento da instanciação).
-
+   
+   <img width="350" height="350" alt="Image" align = "right" src="https://github.com/user-attachments/assets/e9f30010-fef1-4f8f-a4a3-3498155a805d" />
+    
    **Aula POO 5** - Encapsulamento, Getters e Setters (get e set são utilizados para manipular variaveis que estão protegidas pelo encapsulamento).
+   
 
    **Aula POO 6** - Vetores referenciados (com objetos) e não referenciados (Sem classes).
    
@@ -69,10 +72,12 @@
 <div>
    <h2> Java Data Hora </h2> 
 
+   <img width="210" height="210" alt="Image" align = "right" src="https://github.com/user-attachments/assets/f2594f92-baca-4816-b6a0-2cbed40abd9b" />
+   
    **Aula DataHora 1** - Introdução ao LocalDateTime, LocalDate e Instant.
 
    **Aula DataHora 2** - Formatação (ofPaternn, Fomatter, String = LocalDate e Parse) Conversão de data Global para Local.
-
+   
    **Aula DataHora 3** - Operações com DataHora (PlusDays, MinusDays, PlusYear etc).
 
    
