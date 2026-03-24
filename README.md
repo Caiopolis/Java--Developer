@@ -57,6 +57,22 @@
    **Aula POO 5** - Encapsulamento, Getters e Setters (get e set são utilizados para manipular variaveis que estão protegidas pelo encapsulamento).
 
    **Aula POO 6** - Vetores referenciados (com objetos) e não referenciados (Sem classes).
+   
+   **Aula POO 7** - Listas em Java e For Each.
+   
+   **Aula POO 8** - VMatrizes em java e exercício complementar.
+
+   
+</div>
+
+<div>
+   <h2> Java Data Hora </h2> 
+
+   **Aula DataHora 1** - Introdução ao LocalDateTime, LocalDate e Instant.
+
+   **Aula DataHora 2** - Formatação (ofPaternn, Fomatter, String = LocalDate e Parse) Conversão de data Global para Local.
+
+   **Aula DataHora 3** - Operações com DataHora (PlusDays, MinusDays, PlusYear etc).
 
    
 </div>
