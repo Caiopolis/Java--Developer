@@ -27,8 +27,8 @@
    **Aula 4** - Utilizando funções matemáticas nativas do Java (sqrt, pow e abs).
 
    **Aula 5** - Treinando aprendizado com exercícios básicos.
-
-   <img width="170" height="170" alt="Image" align = "right" src="https://github.com/user-attachments/assets/29e7c3c2-fe5b-45dc-83f8-289173c2dfef" />
+   
+   <img width="190" height="180" alt="Image" align = "right" src="https://github.com/user-attachments/assets/1c15cd9d-3220-4398-a565-ff00f05f1f0e" />
 
    **Aula 6** - Estruturas condicionais (if, else e else-if).
 
@@ -51,12 +51,33 @@
    **Aula POO 2** - Utilizando métodos nativos de um oobjeto (toString etc...).
 
    **Aula POO 3** - Métodos estaticos (métodos que não necessitam ser instânciados, ou seja, não há necessidade de chamar o método por um objeto).
-
+   
    **Aula POO 4** - Declarando os Construtores (Método que se inicia no momento da instanciação).
-
+   
+   <img width="350" height="330" alt="Image" align = "right" src="https://github.com/user-attachments/assets/e9f30010-fef1-4f8f-a4a3-3498155a805d" />
+   
    **Aula POO 5** - Encapsulamento, Getters e Setters (get e set são utilizados para manipular variaveis que estão protegidas pelo encapsulamento).
 
    **Aula POO 6** - Vetores referenciados (com objetos) e não referenciados (Sem classes).
+   
+   **Aula POO 7** - Listas em Java e For Each.
+   
+   **Aula POO 8** - VMatrizes em java e exercício complementar.
+</br> </br>
+    </br> 
+   
+</div>
+
+<div>
+   <h2> Java Data Hora </h2> 
+
+   <img width="230" height="210" alt="Image" align = "right" src="https://github.com/user-attachments/assets/f2594f92-baca-4816-b6a0-2cbed40abd9b" />
+   
+   **Aula DataHora 1** - Introdução ao LocalDateTime, LocalDate e Instant.
+
+   **Aula DataHora 2** - Formatação (ofPaternn, Fomatter, String = LocalDate e Parse) Conversão de data Global para Local.
+   
+   **Aula DataHora 3** - Operações com DataHora (PlusDays, MinusDays, PlusYear etc).
 
    
 </div>
