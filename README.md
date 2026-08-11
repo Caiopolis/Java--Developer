@@ -83,8 +83,28 @@
    **Aula DataHora 2** - Formatação (ofPaternn, Fomatter, String = LocalDate e Parse) Conversão de data Global para Local.
    
    **Aula DataHora 3** - Operações com DataHora (PlusDays, MinusDays, PlusYear etc).
-
    
 </div>
 
+ <h2> Java Relacionamento de Classes </h2> 
+  
+  **Aula Relacionamento de Classes 1** - Implementando Classe Enumeration(usado para definir um conjunto fixo de constantes nomeadas).
+  
+  **Aula Relacionamento de Classes 2** - Herança, Mecanismo da Orientação a Objetos que permite criar novas classes (filhas) a partir de classes já existentes (Pais).
+  
+  **Aula Relacionamento de Classes 3** - Upcasting (É a conversão de um objeto de uma subclasse (filha) para uma superclasse (Pai)), downcasting (É a conversão de um objeto de uma superclasse (Pai) para uma subclasse (filha)) e instaceof (É um operador usado para verificar o tipo real de um objeto antes de fazer um downcasting, evitando erros de execução).
+  
+  **Aula Relacionamento de Classes 4** - Super serve como uma referência direta à superclasse (classe Pai). e Override é uma anotação que avisa o compilador que você está sobrescrevendo (reescrevendo) um método que foi herdado da classe Pai.
+
+   <picture>
+   <img width="230" height="210" alt="Image" align = "right" src="https://github.com/user-attachments/assets/29809cf7-273e-4fc8-ac57-0c84dd20abe8" />
+  </picture>
+  
+  **Aula Relacionamento de Classes 5** - Classes Final impede que ela seja estendida (ou seja, proíbe a criação de subclasses/classes filhas), Métodos Final quando aplicada a um método, impede que ele seja sobrescrito (@Override) pelas classes filhas e Variáveis Final quando aplicada a uma variável, transforma-a em uma constante. O valor só pode ser atribuído uma única vez.
+  
+  **Aula Relacionamento de Classes 6** - Classes Abstratas. Uma classe abstrata funciona como um molde ou modelo genérico para outras classes.
+
+  **Aula Relacionamento de Classes 7** - Métodos Abstratos São métodos declarados sem corpo (sem código {}).
+
+ 
 em processo...
