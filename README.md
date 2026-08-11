@@ -96,7 +96,7 @@
   
   **Aula Relacionamento de Classes 4** - Super serve como uma referência direta à superclasse (classe Pai). e Override é uma anotação que avisa o compilador que você está sobrescrevendo (reescrevendo) um método que foi herdado da classe Pai.
 
-   <picture>
+  <picture>
    <img width="230" height="210" alt="Image" align = "right" src="https://github.com/user-attachments/assets/29809cf7-273e-4fc8-ac57-0c84dd20abe8" />
   </picture>
   
